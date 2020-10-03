@@ -1,6 +1,9 @@
 # tic-tac-toe
+![](readmeResources/gamess.PNG)
 
-## Project setup
+This project made using Vue + Vuetify.  
+
+## Project setup 
 ```
 npm install
 ```
